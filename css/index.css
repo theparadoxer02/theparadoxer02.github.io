@@ -1,0 +1,59 @@
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.resume {
+    text-align: center;
+    text-decoration-color: currentColor;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.pic {
+    background-size: ;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin-top: -60px;
+}
+
+.text2 {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.text2 h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 4.5em;
+    font-weight: 700;
+}
+
+
+.header {
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-image: linear-gradient(230deg, #4bcf93, #4bcfb7, #a24bcf);
+    background-size: 400% 400%;
+}
+
+
+.intro {
+    padding: 50px 0;
+}
+
+#arraytext {
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
