@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My space on web</title><link>https://example.com/</link><description>I pen down my ideas here</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:abhimanyu98986@gmail.com"&gt;Abhimanyu Gupta&lt;/a&gt; </copyright><lastBuildDate>Tue, 05 Nov 2019 12:12:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blockchain: Making things cheaper</title><link>https://example.com/posts/blockchain-making-things-cheaper/</link><dc:creator>Abhimanyu Gupta</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>https://example.com/posts/blockchain-making-things-cheaper/</guid><pubDate>Tue, 05 Nov 2019 12:11:36 GMT</pubDate></item><item><title>What the heck is Python Generator?</title><link>https://example.com/posts/what-the-heck-is-python-generator/</link><dc:creator>Abhimanyu Gupta</dc:creator><description>&lt;div&gt;&lt;p&gt;While understanding the different python concepts I came across the topic Generator and Iterator, Which of them is faster, what is yield keyword etc. I tried googling and found a bunch of blog posts. Each of them had their own ways of explaining things which ended making me more frustrated. I started from scratch again and it took a concerted effort to understand the underlying concept.
+What are Generator functions?
+A function containing a yield keyword inside a loop is called a Generator. And if there is no yield keyword it is an Iterator.
+How is it different from an iterator?
+Basically Iterators contains two main methods:&lt;/p&gt;
+&lt;p&gt;While understanding the different python concepts I came across the topic Generator and Iterator, Which of them is faster, what is yield keyword etc. I tried googling and found a bunch of blog posts. Each of them had their own ways of explaining things which ended making me more frustrated. I started from scratch again and it took a concerted effort to understand the underlying concept.
+What are Generator functions?
+A function containing a yield keyword inside a loop is called a Generator. And if there is no yield keyword it is an Iterator.
+How is it different from an iterator?
+Basically Iterators contains two main methods:&lt;/p&gt;
+&lt;p&gt;While understanding the different python concepts I came across the topic Generator and Iterator, Which of them is faster, what is yield keyword etc. I tried googling and found a bunch of blog posts. Each of them had their own ways of explaining things which ended making me more frustrated. I started from scratch again and it took a concerted effort to understand the underlying concept.
+What are Generator functions?
+A function containing a yield keyword inside a loop is called a Generator. And if there is no yield keyword it is an Iterator.
+How is it different from an iterator?
+Basically Iterators contains two main methods:&lt;/p&gt;
+&lt;p&gt;While understanding the different python concepts I came across the topic Generator and Iterator, Which of them is faster, what is yield keyword etc. I tried googling and found a bunch of blog posts. Each of them had their own ways of explaining things which ended making me more frustrated. I started from scratch again and it took a concerted effort to understand the underlying concept.
+What are Generator functions?
+A function containing a yield keyword inside a loop is called a Generator. And if there is no yield keyword it is an Iterator.
+How is it different from an iterator?
+Basically Iterators contains two main methods:&lt;/p&gt;
+&lt;p&gt;While understanding the different python concepts I came across the topic Generator and Iterator, Which of them is faster, what is yield keyword etc. I tried googling and found a bunch of blog posts. Each of them had their own ways of explaining things which ended making me more frustrated. I started from scratch again and it took a concerted effort to understand the underlying concept.
+What are Generator functions?
+A function containing a yield keyword inside a loop is called a Generator. And if there is no yield keyword it is an Iterator.
+How is it different from an iterator?
+Basically Iterators contains two main methods:&lt;/p&gt;&lt;/div&gt;</description><category>generator</category><category>python</category><guid>https://example.com/posts/what-the-heck-is-python-generator/</guid><pubDate>Tue, 05 Nov 2019 12:08:58 GMT</pubDate></item></channel></rss>
