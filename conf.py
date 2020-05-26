@@ -143,9 +143,9 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Archives', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('https://getnikola.com', 'About me', 'fa fa-user'),
-        ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
-        ('https://github.com/getnikola', 'My Github', 'fab fa-github'),
+        ('https://twitter.com/theparadoxer02', 'My Twitter', 'fab fa-twitter'),
+        ('https://github.com/theparadoxer02', 'My Github', 'fab fa-github'),
+        ("https://www.goodreads.com/review/list/102421176", "Reading List", "icon-book")
     )
 }
 
