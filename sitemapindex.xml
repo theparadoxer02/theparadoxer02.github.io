@@ -6,12 +6,8 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/categories/cat_posts.xml</loc>
-  <lastmod>2020-05-26T21:12:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2020-05-26T21:16:00Z</lastmod>
+  <lastmod>2020-05-26T21:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
@@ -19,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2020-05-26T21:18:00Z</lastmod>
+  <lastmod>2020-05-26T21:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>
