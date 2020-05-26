@@ -227,10 +227,11 @@ POSTS = (
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("stories/*.rst", "", "story.tmpl"),
+    ("stories/*.md", "", "story.tmpl"),
+    ("stories/*.txt", "", "story.tmpl"),
+    ("stories/*.html", "", "story.tmpl"),
+    ("stories/*.ipynb", "", "story.tmpl"),
 )
 
 
@@ -319,7 +320,7 @@ COMPILERS = {
 
 # Create by default posts in one file format?
 # Set to False for two-file posts, with separate metadata.
-ONE_FILE_POSTS = True
+ONE_FILE_POSTS = False
 
 # Preferred metadata format for new posts
 # "Nikola": reST comments, wrapped in a HTML comment if needed (default)
@@ -395,6 +396,8 @@ ONE_FILE_POSTS = True
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page and posts.
 # Tag pages will still be generated.
+
+# POSTS_SECTIONS = True
 HIDDEN_TAGS = ['mathjax']
 
 # Only include tags on the tag list/overview page if there are at least
@@ -545,7 +548,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-# INDEX_PATH = ""
+INDEX_PATH = "blog"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -645,7 +648,7 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'src'
+GITHUB_SOURCE_BRANCH = 'source'
 GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
