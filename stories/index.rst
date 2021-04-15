@@ -4,16 +4,27 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Thoughts on data science, machine learning and signal processing
+.. description: Thoughts on life
 .. type: text
 
 
-Hello, World!
+Since there was an option of sending messages as a note, so here is something I came up with.
+
+"Meethi hai Meethai, Papdi thodi khast hai,
+Tumhari smile to Tripathi, bahot jabardast hai."
+
+It may be cheesy. :facepalm:
+
+Okay, Irrespective of however things are between us, Accept this as an appreciation for bearing me for whatsoever amount of time.
+
+Alvida..!
+Thank you for existing.
+Happiest birthday!
+You are beautiful :)
 -------------
 
-|
 
-I'm a full stack developer based in New Delhi, India. . I blog
+
 `here <link://post_path/blog/>`__.
 
 |
